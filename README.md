@@ -37,7 +37,15 @@ ch is triggered.
 | 12 V power supply | Motors; regulate 5 V for Arduino |
 
 ---
+---
 
+## 📸 Circuit Diagram
+
+![Cleanova Circuit Diagram](circuit_diagram.png)
+
+*A visual representation of the system connections between the Arduino, BH1750 sensor, motor driver, limit switches, and DC motors.*
+
+---
 ## Wiring
 
 ### BH1750 → Arduino
