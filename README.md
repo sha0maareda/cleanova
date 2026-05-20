@@ -134,9 +134,10 @@ At 9600 baud you will see:
 ## Repository Structure
 
 ```
-Cleanova/
-├── cleanova_main.ino   # Main Arduino sketch
-└── README.md           # Documentation
+Cleanova/ 
+├── cleanova_main.ino      # Main Arduino sketch  
+├── circuit_diagram.png    # Circuit diagram showing all hardware connections
+└── README.md              # Project documentation and explanation
 ```
 
 ---
