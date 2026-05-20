@@ -80,7 +80,7 @@ Alternatively, external pull-up resistors can be used if preferred in hardware d
 
 ## Calibration
 
-Open `clinova_main.ino` and adjust the constants at the top of the file:
+Open `cleanova_main.ino` and adjust the constants at the top of the file:
 
 ```cpp
 // Lux reading below which the system assumes it is night
